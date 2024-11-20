@@ -1,0 +1,11 @@
+OLLAMA KURULUMU VE TKİNTER YAPMAK
+OLLAMA 
+**yüklendikten sonra terminale ''sudo apt install'' yaz sonra ''sudo apt upgrade'' yaz bu ollamaya hazırlıktır
+***mozillaya ollama indir yaz çıkan ''curl komutunu terminale yapıştır'' ollama run mistral yazıp mistral modelini yükle
+****yüklendikten sonra ollamayı kullanmak istiyorsun mesela ollama run mistral:latest yazıp getirebilirsin
+tkinter
+*****visual code indir
+******codeu indirdikten sonra indirilenler bölümünde bul code u sonra yanına sağ tık yap uç birimde aç a bas sonra sudo dpkg -i (ismi yapıştır) vscodeu kurmak için
+https://github.com/HuseyinPARMAKSIZ/YapayZeka/commits?author=HuseyinPARMAKSIZ burdan tkinter kodunu al
+*******terminale sudo apt-get update sonra sudo apt-get install python3-tk yaz
+*********githubda HuseyinPARMAKSIZ kullanıcısna gir tkinter codunu vscode a yapıştır
